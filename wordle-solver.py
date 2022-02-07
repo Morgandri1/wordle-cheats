@@ -1,4 +1,4 @@
-letter = input('enter letter seperated by ' ' spaces: ')
+letter = input('enter letters seperated by ' ' spaces: ')
 
 letter_list = letter.split(' ')
 
